@@ -23,7 +23,7 @@ This project compares multiple linear regression models for predicting restauran
 
 | File | Description |
 |---|---|
-| `tips_prediction _reg_analysis.ipynb` | Exploratory analysis and regression modeling notebook |
+| `tips_prediction_analysis.ipynb` | Exploratory analysis and regression modeling notebook |
 | `tips_webapp.py` | Streamlit prediction app (uses total_bill + size model) |
 | `tips.csv` | Dataset (Seaborn tips dataset) |
 | `total_bill_size_model2.pkl` | Deployed production model (2 features) |
